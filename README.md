@@ -19,6 +19,8 @@
 </div>
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/1245114941610922007)](https://discord.com/users/1245114941610922007)
+
 
 ### 👨‍💻 About Me:
 I am a js, python, typescript and React enthusiast! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
